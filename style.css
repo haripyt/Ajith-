@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.option {
+    display: block;
+    margin: 8px 0;
+}
+
+.navigation button {
+    margin-right: 10px;
+    padding: 10px 20px;
+}
+
+.wrongBox {
+    background: #f8d7da;
+    padding: 10px;
+}
+
+.wrongItem {
+    background: white;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-left: 4px solid red;
+}
